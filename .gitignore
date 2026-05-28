@@ -1,0 +1,13 @@
+# Sensitive files
+google_tokens.json
+google_client_secret.json
+memory/.dreams/short-term-recall.json
+memory/2026-04-17-*.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.local
